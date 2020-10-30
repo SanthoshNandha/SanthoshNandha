@@ -6,6 +6,6 @@ The original [Resume Template](https://startbootstrap.com/template-overviews/res
 
 # Preview
 
-[![Resume Preview](https://santhoshnandha.github.io/img/Resume-FrontPage.png)]https://santhoshnandha.github.io/img/Resume-FrontPage.png)
+[![Resume Preview](https://santhoshnandha.github.io/img/Resume-FrontPage.png)](https://santhoshnandha.github.io/img/Resume-FrontPage.png)
 
 **[View Live Preview](https://santhoshnandha.github.io/)**
